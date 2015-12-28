@@ -1,0 +1,21 @@
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\bin\Debug\validation.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\bin\Debug\validation.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\obj\Debug\ResolveAssemblyReference.cache
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\obj\Debug\validation.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\obj\Debug\validation.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.pdb
+G:\SD Project\Hospital Management System\validation\bin\Debug\validation.dll
+G:\SD Project\Hospital Management System\validation\bin\Debug\validation.pdb
+G:\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.dll
+G:\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.pdb
+G:\SD Project\Hospital Management System\validation\obj\Debug\validation.csprojResolveAssemblyReference.cache
+G:\SD Project\Hospital Management System\validation\obj\Debug\validation.dll
+G:\SD Project\Hospital Management System\validation\obj\Debug\validation.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\bin\Debug\validation.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\bin\Debug\validation.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\bin\Debug\Dataacress.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\obj\Debug\ResolveAssemblyReference.cache
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\obj\Debug\validation.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\validation\obj\Debug\validation.pdb

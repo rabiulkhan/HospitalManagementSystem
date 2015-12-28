@@ -1,0 +1,12 @@
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Dataacress\bin\Debug\Dataacress.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Dataacress\bin\Debug\Dataacress.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Dataacress\obj\Debug\ResolveAssemblyReference.cache
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.pdb
+G:\SD Project\Hospital Management System\Dataacress\bin\Debug\Dataacress.dll
+G:\SD Project\Hospital Management System\Dataacress\bin\Debug\Dataacress.pdb
+G:\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.dll
+G:\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\Dataacress\obj\Debug\ResolveAssemblyReference.cache
+D:\rabi\sd\new\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\Dataacress\obj\Debug\Dataacress.pdb

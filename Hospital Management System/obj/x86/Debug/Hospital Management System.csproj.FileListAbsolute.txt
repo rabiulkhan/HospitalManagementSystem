@@ -1,0 +1,111 @@
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receplogin.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.MDIParent.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Properties.Resources.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.dll
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.pdb
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipmanlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medmanlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receptionist1.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmdoctor.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.doctorsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patient.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staff.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staffsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipment.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medicine.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.admin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.dll
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.pdb
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.admin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.doctorsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipmanlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipment.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medicine.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medmanlogin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patient.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receplogin.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.MDIParent.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Properties.Resources.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmdoctor.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receptionist1.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staff.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staffsearch.resources
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\EDUCATIONAL BOOKS\3.2\C#\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.dll
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Dataacress.dll
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.pdb
+G:\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Dataacress.pdb
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.admin.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminlogin.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.doctorsearch.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipmanlogin.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipment.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipsearch.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medicine.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medmanlogin.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medsearch.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patient.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patsearch.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receplogin.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.MDIParent.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Properties.Resources.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmdoctor.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receptionist1.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staff.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staffsearch.resources
+G:\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Dataacress.dll
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\validation.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\bin\Debug\Dataacress.pdb
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.admin.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.adminlogin.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.doctorsearch.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipmanlogin.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipment.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.equipsearch.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medicine.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medmanlogin.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.medsearch.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patient.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.patsearch.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receplogin.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.MDIParent.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmdoctor.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.receptionist1.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staff.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.staffsearch.resources
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\rabi\sd\new\SD Project\Hospital Management System\Hospital Management System\obj\x86\Debug\GenerateResource.write.1.tlog
